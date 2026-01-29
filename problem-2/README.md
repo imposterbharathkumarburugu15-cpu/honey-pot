@@ -58,8 +58,5 @@ It features a **Stateful AI Agent** that baits scammers, extracts intelligence, 
     python -m uvicorn app.main:app --host 0.0.0.0 --port 8000
     ```
 
-## Deployment
-1.  **Push to GitHub**.
-2.  **Deploy** (Render/Railway/Heroku).
-    - Start Command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
-3.  **Submit** your live URL.
+
+
